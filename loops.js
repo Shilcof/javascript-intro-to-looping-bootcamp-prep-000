@@ -15,6 +15,6 @@ function whileLoop(n) {
 
 function doWhileLoop(num) {
   do {
-    ;
+    console.log("doo-bee-doo-bee-doo");
   } while ();
 }
