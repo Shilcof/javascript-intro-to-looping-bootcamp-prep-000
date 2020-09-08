@@ -1,8 +1,11 @@
 
 function forLoop(array) {
-for (let i = 0; i < 25; i += 1)
-  console.log(i)
+for (let i = 0; i < 25; i += 1) {
+  if i === 1 {
   array.push("I am strange loop" ${`i`})
-  "I am ${i} strange loop
-  
+  } else {
+  "I am 1 strange loop"
+  "I am ${i} strange loops."
+  }
+}
 }
